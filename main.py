@@ -60,7 +60,7 @@ def methods():
     main()
 
 def main():
-    os.system('title Venom ^| https://github.com/izikut/Venom')
+    os.system('title Venom ^| https://github.com/IzikutDev/Venom-Stresser')
     banner()
     choice = input('''
 [%s1%s] - %sAttack%s
